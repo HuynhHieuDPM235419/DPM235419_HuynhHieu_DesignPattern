@@ -49,5 +49,191 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Singleton\DPM235419_HuynhHieu_Singleton.csproj">
+      <Project>{ca97a72b-9983-44a5-b45c-230d8f14a223}</Project>
+      <Name>DPM235419_HuynhHieu_Singleton</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Builder\DPM235419_HuynhHieu_Builder.csproj">
+      <Project>{6ccbae8b-42ca-4d84-8cc5-2366c7dbf07c}</Project>
+      <Name>DPM235419_HuynhHieu_Builder</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Prototype\DPM235419_HuynhHieu_Prototype.csproj">
+      <Project>{830b0802-b3d6-4ad7-9249-795e7c269eb2}</Project>
+      <Name>DPM235419_HuynhHieu_Prototype</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_FactoryMethod\DPM235419_HuynhHieu_FactoryMethod.csproj">
+      <Project>{d6d2489d-a374-456e-afb2-cd94f48b6558}</Project>
+      <Name>DPM235419_HuynhHieu_FactoryMethod</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_AbstractFactory\DPM235419_HuynhHieu_AbstractFactory.csproj">
+      <Project>{2b32bee5-7373-497d-ba6a-057b5040b108}</Project>
+      <Name>DPM235419_HuynhHieu_AbstractFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Facade\DPM235419_HuynhHieu_Facade.csproj">
+      <Project>{cbf8b40a-8b46-4e80-adf7-d4cf346f63ef}</Project>
+      <Name>DPM235419_HuynhHieu_Facade</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Decorator\DPM235419_HuynhHieu_Decorator.csproj">
+      <Project>{3ea57188-06b2-4b8e-be46-e41c1f7fa869}</Project>
+      <Name>DPM235419_HuynhHieu_Decorator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Proxy\DPM235419_HuynhHieu_Proxy.csproj">
+      <Project>{5818359f-c2b5-43e6-8a76-d6a8ff8622e5}</Project>
+      <Name>DPM235419_HuynhHieu_Proxy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Adapter\DPM235419_HuynhHieu_Adapter.csproj">
+      <Project>{e49817fd-c66b-4a29-b345-e9629cbf0971}</Project>
+      <Name>DPM235419_HuynhHieu_Adapter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Composite\DPM235419_HuynhHieu_Composite.csproj">
+      <Project>{45ce2937-48f2-4d94-a306-a7dbbb2e835d}</Project>
+      <Name>DPM235419_HuynhHieu_Composite</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Flyweight\DPM235419_HuynhHieu_Flyweight.csproj">
+      <Project>{3c2e5560-e6ef-4c1c-9fe0-955847ea02e0}</Project>
+      <Name>DPM235419_HuynhHieu_Flyweight</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Bridge\DPM235419_HuynhHieu_Bridge.csproj">
+      <Project>{c8680559-2d95-4f86-85a4-b67e2b82c816}</Project>
+      <Name>DPM235419_HuynhHieu_Bridge</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_AbstractFactoryPattern\DPM235419_HuynhHieu_AbstractFactoryPattern.csproj">
+      <Project>{48dd7ef5-20ce-488b-9f29-b6f87910476e}</Project>
+      <Name>DPM235419_HuynhHieu_AbstractFactoryPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_AdapterPattern\DPM235419_HuynhHieu_AdapterPattern.csproj">
+      <Project>{7eb72e41-22bd-4f41-acd7-3da3194ff673}</Project>
+      <Name>DPM235419_HuynhHieu_AdapterPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_BridgePattern\DPM235419_HuynhHieu_BridgePattern.csproj">
+      <Project>{5990dfdb-c772-4245-be12-3edf3500fc01}</Project>
+      <Name>DPM235419_HuynhHieu_BridgePattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_BuilderPattern\DPM235419_HuynhHieu_BuilderPattern.csproj">
+      <Project>{7cf52a42-11b3-4cea-a9be-70e5f76c3fc9}</Project>
+      <Name>DPM235419_HuynhHieu_BuilderPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_ChainOfResponsibility\DPM235419_HuynhHieu_ChainOfResponsibility.csproj">
+      <Project>{675f7680-152f-4115-9a94-6771bc12be73}</Project>
+      <Name>DPM235419_HuynhHieu_ChainOfResponsibility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_ChainOfResponsibilityPattern\DPM235419_HuynhHieu_ChainOfResponsibilityPattern.csproj">
+      <Project>{d19bc1fe-b25f-4cd2-baf5-0d120ed5c982}</Project>
+      <Name>DPM235419_HuynhHieu_ChainOfResponsibilityPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Command\DPM235419_HuynhHieu_Command.csproj">
+      <Project>{1447016f-2634-4cbf-ac78-f639b1a4fc03}</Project>
+      <Name>DPM235419_HuynhHieu_Command</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_CommandPattern\DPM235419_HuynhHieu_CommandPattern.csproj">
+      <Project>{58fa4972-68c4-41d0-909c-e807dbda5b6a}</Project>
+      <Name>DPM235419_HuynhHieu_CommandPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_CompositePattern\DPM235419_HuynhHieu_CompositePattern.csproj">
+      <Project>{15d4efd2-c191-4d77-9f66-7a393536432c}</Project>
+      <Name>DPM235419_HuynhHieu_CompositePattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_DecoratorPattern\DPM235419_HuynhHieu_DecoratorPattern.csproj">
+      <Project>{ee678165-1950-4b8e-b296-85cdd5e9a90a}</Project>
+      <Name>DPM235419_HuynhHieu_DecoratorPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_FacadePattern\DPM235419_HuynhHieu_FacadePattern.csproj">
+      <Project>{ae031ca3-304d-44f4-9839-49718ebb2fe8}</Project>
+      <Name>DPM235419_HuynhHieu_FacadePattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_FactoryMethodPattern\DPM235419_HuynhHieu_FactoryMethodPattern.csproj">
+      <Project>{4980d5bf-223b-4200-923f-d8a5bab6ffa0}</Project>
+      <Name>DPM235419_HuynhHieu_FactoryMethodPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_FlyweightPattern\DPM235419_HuynhHieu_FlyweightPattern.csproj">
+      <Project>{4dbada2a-ad03-4699-8318-8d5ef47c53f4}</Project>
+      <Name>DPM235419_HuynhHieu_FlyweightPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Interpreter\DPM235419_HuynhHieu_Interpreter.csproj">
+      <Project>{c5ec621b-d367-4dae-b667-fb91287fffd5}</Project>
+      <Name>DPM235419_HuynhHieu_Interpreter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_InterpreterPattern\DPM235419_HuynhHieu_InterpreterPattern.csproj">
+      <Project>{5d3cf1a4-6f93-482a-81c5-9229afeec6e0}</Project>
+      <Name>DPM235419_HuynhHieu_InterpreterPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Iterator\DPM235419_HuynhHieu_Iterator.csproj">
+      <Project>{3801fc73-546e-4cb8-b68c-f4e41bec2222}</Project>
+      <Name>DPM235419_HuynhHieu_Iterator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_IteratorPattern\DPM235419_HuynhHieu_IteratorPattern.csproj">
+      <Project>{d1c0e6d9-a030-4e85-86fa-b2b480640cbf}</Project>
+      <Name>DPM235419_HuynhHieu_IteratorPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Mediator\DPM235419_HuynhHieu_Mediator.csproj">
+      <Project>{5d166f34-1760-4178-a017-7e15c3cf2f5a}</Project>
+      <Name>DPM235419_HuynhHieu_Mediator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_MediatorPattern\DPM235419_HuynhHieu_MediatorPattern.csproj">
+      <Project>{a8465a00-39ed-4d71-b1fe-ee96fdd70a02}</Project>
+      <Name>DPM235419_HuynhHieu_MediatorPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Memento\DPM235419_HuynhHieu_Memento.csproj">
+      <Project>{f483aa38-25f6-47ed-bae0-004e71ca618a}</Project>
+      <Name>DPM235419_HuynhHieu_Memento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_MementoPattern\DPM235419_HuynhHieu_MementoPattern.csproj">
+      <Project>{43d4c228-b9a1-48c2-81dd-ea39905941d2}</Project>
+      <Name>DPM235419_HuynhHieu_MementoPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Observer\DPM235419_HuynhHieu_Observer.csproj">
+      <Project>{fcb68939-2be3-456d-aa97-7a8441bd588a}</Project>
+      <Name>DPM235419_HuynhHieu_Observer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_ObserverPattern\DPM235419_HuynhHieu_ObserverPattern.csproj">
+      <Project>{24302304-fefb-4653-82d8-a609436376c3}</Project>
+      <Name>DPM235419_HuynhHieu_ObserverPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_PrototypePattern\DPM235419_HuynhHieu_PrototypePattern.csproj">
+      <Project>{b81c6b88-f14e-4774-8e77-eea1e5fcd9a3}</Project>
+      <Name>DPM235419_HuynhHieu_PrototypePattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_ProxyPattern\DPM235419_HuynhHieu_ProxyPattern.csproj">
+      <Project>{44581d7c-efee-4177-a6a9-2162f307d8f6}</Project>
+      <Name>DPM235419_HuynhHieu_ProxyPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_SingletonPattern\DPM235419_HuynhHieu_SingletonPattern.csproj">
+      <Project>{759dd17b-57c0-49a5-8b7e-799c31a88e67}</Project>
+      <Name>DPM235419_HuynhHieu_SingletonPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_State\DPM235419_HuynhHieu_State.csproj">
+      <Project>{1dbeccb6-e412-4894-b5d7-f50163d51df1}</Project>
+      <Name>DPM235419_HuynhHieu_State</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_StatePattern\DPM235419_HuynhHieu_StatePattern.csproj">
+      <Project>{598a927b-1156-452d-8dfc-233b6b733eff}</Project>
+      <Name>DPM235419_HuynhHieu_StatePattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Strategy\DPM235419_HuynhHieu_Strategy.csproj">
+      <Project>{c4db17f3-23ce-420c-bf0a-fcacdd997ebb}</Project>
+      <Name>DPM235419_HuynhHieu_Strategy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_StrategyPattern\DPM235419_HuynhHieu_StrategyPattern.csproj">
+      <Project>{d06ea258-d470-4107-8034-49e943902c3c}</Project>
+      <Name>DPM235419_HuynhHieu_StrategyPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_TemplateMethod\DPM235419_HuynhHieu_TemplateMethod.csproj">
+      <Project>{2590ce8d-f580-487e-9750-9990dab9f947}</Project>
+      <Name>DPM235419_HuynhHieu_TemplateMethod</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_TemplateMethodPattern\DPM235419_HuynhHieu_TemplateMethodPattern.csproj">
+      <Project>{6614d8d5-799e-478a-bcbd-a4b5d8468683}</Project>
+      <Name>DPM235419_HuynhHieu_TemplateMethodPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_Visitor\DPM235419_HuynhHieu_Visitor.csproj">
+      <Project>{62c9e2a3-8057-4893-9f7d-f5f390ae2533}</Project>
+      <Name>DPM235419_HuynhHieu_Visitor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DPM235419_HuynhHieu_VisitorPattern\DPM235419_HuynhHieu_VisitorPattern.csproj">
+      <Project>{4891aa4d-11b6-4358-a19e-f501cbbabf64}</Project>
+      <Name>DPM235419_HuynhHieu_VisitorPattern</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
